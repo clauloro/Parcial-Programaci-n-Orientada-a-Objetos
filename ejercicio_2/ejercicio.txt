@@ -1,0 +1,5 @@
+Animal es la clase base de Mamífero y Ovíparo
+Mamífero y Ovíparo es una subclase de Animal
+pollo una subclase de oviparo
+gato una subclase de mamifero
+ornitorrinco es una subclase de Mamifero y Oviparo
